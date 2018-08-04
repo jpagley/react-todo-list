@@ -8,4 +8,4 @@ Bug Fix 1
 =======
 Bug fix 1
 >>>>>>> Bugfix
-Bug fix 1 By Jeff Pagley
+Bug fix 1 By Jeff
